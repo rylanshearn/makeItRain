@@ -1,0 +1,6 @@
+#ignore the following:
+*~
+*.csv
+*.png
+*.RData
+*.Rhistory
